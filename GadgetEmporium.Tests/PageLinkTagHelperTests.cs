@@ -7,7 +7,7 @@ using Moq;
 using GadgetEmporium.Infrastructure;
 using GadgetEmporium.Models.ViewModels;
 using Xunit;
-namespace SportsStore.Tests
+namespace GadgetEmporium.Tests
 {
     public class PageLinkTagHelperTests
     {
