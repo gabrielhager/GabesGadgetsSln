@@ -30,3 +30,18 @@ This is a build of the demo MVC App from Adam Freeman's ASP.NET Core 3 textbook.
 (27 March 2021) Completion of the Chapter 7 portion of the lab. Pagination and Bootstrap styling applied.
 
 # Chapter 8 Screenshots
+## Step 2
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB2A_Category_GabrielHagerSD9.JPG)
+
+(31 March 2021) Added category buttons to the navigation bar.
+
+## Step 3
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB2A_AddCartButtons_GabrielHagerSD9.JPG)
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB2A_ShoppingCart_GabrielHagerSD9.JPG)
+
+(1 April 2021) Photos desplaying the Add to Cart buttons and the populated Shopping Cart.
+
+## Step 4
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB2A_WorkingTests_GabrielHagerSD9.JPG)
+
+(1 April 2021) Image displaying all 15 Unit Tests passing.
