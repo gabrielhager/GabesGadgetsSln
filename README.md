@@ -45,3 +45,30 @@ This is a build of the demo MVC App from Adam Freeman's ASP.NET Core 3 textbook.
 ![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB2A_WorkingTests_GabrielHagerSD9.JPG)
 
 (1 April 2021) Image displaying all 15 Unit Tests passing.
+
+# Chapter 9 Screenshots
+
+## Step 2
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB3A_UpdatedCartRemoveBTN_GabrielHagerSD9.JPG)
+
+(5 April 2021) Added the "Remove", and "Checkout" buttons to the Cart page.
+
+## Step 3
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB3A_CartWidget_GabrielHagerSD9.JPG)
+
+(5 April 2021) Added the cart widget to the top right corner.
+
+## Step 4
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB3A_Checkout_GabrielHagerSD9.JPG)
+
+(5 April 2021) Created the Checkout page that includes validation when fields are left blank.
+
+## Step 5
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB3A_Confirmation_GabrielHagerSD9.JPG)
+
+(5 April 2021) Created a confirmation page displaying that your order was successfully recieved.
+
+## Step 6
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB3A_PassingTests_GabrielHagerSD9.JPG)
+
+(5 April 2021) Display all 18 Unit tests passing
