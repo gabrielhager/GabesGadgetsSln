@@ -13,7 +13,7 @@ This is a build of the demo MVC App from Adam Freeman's ASP.NET Core 3 textbook.
 ## Link to Author
 [Adam Freeman](https://www.apress.com/gp/book/9781484254394)
 
-
+# Chapter 7 Screenshots
 ## Step 2
 ![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/Lab1B_Step1_GabrielHagerSD9.JPG)
 
@@ -28,3 +28,47 @@ This is a build of the demo MVC App from Adam Freeman's ASP.NET Core 3 textbook.
 ![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/Lab1B_FinalStepBootstrap_GabrielHagerSD9.JPG)
 
 (27 March 2021) Completion of the Chapter 7 portion of the lab. Pagination and Bootstrap styling applied.
+
+# Chapter 8 Screenshots
+## Step 2
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB2A_Category_GabrielHagerSD9.JPG)
+
+(31 March 2021) Added category buttons to the navigation bar.
+
+## Step 3
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB2A_AddCartButtons_GabrielHagerSD9.JPG)
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB2A_ShoppingCart_GabrielHagerSD9.JPG)
+
+(1 April 2021) Photos desplaying the Add to Cart buttons and the populated Shopping Cart.
+
+## Step 4
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB2A_WorkingTests_GabrielHagerSD9.JPG)
+
+(1 April 2021) Image displaying all 15 Unit Tests passing.
+
+# Chapter 9 Screenshots
+
+## Step 2
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB3A_UpdatedCartRemoveBTN_GabrielHagerSD9.JPG)
+
+(5 April 2021) Added the "Remove", and "Checkout" buttons to the Cart page.
+
+## Step 3
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB3A_CartWidget_GabrielHagerSD9.JPG)
+
+(5 April 2021) Added the cart widget to the top right corner.
+
+## Step 4
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB3A_Checkout_GabrielHagerSD9.JPG)
+
+(5 April 2021) Created the Checkout page that includes validation when fields are left blank.
+
+## Step 5
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB3A_Confirmation_GabrielHagerSD9.JPG)
+
+(5 April 2021) Created a confirmation page displaying that your order was successfully recieved.
+
+## Step 6
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB3A_PassingTests_GabrielHagerSD9.JPG)
+
+(5 April 2021) Display all 18 Unit tests passing
