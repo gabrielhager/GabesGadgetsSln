@@ -71,4 +71,35 @@ This is a build of the demo MVC App from Adam Freeman's ASP.NET Core 3 textbook.
 ## Step 6
 ![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB3A_PassingTests_GabrielHagerSD9.JPG)
 
-(5 April 2021) Display all 18 Unit tests passing
+(5 April 2021) Display all 18 Unit tests passing.
+
+
+# Chapter 10 Screenshots
+
+## Step 2
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB4A_Blazor_GabrielHagerSD9.JPG)
+(15 April 2021) Created the ADMIN page to manage products and orders.
+
+## Step 3
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB4A_Products_GabrielHagerSD9.JPG)
+(15 April 2021) Implemented the product view into the Admin page.
+
+## Step 4
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB4A_Shipped_GabrielHagerSD9.JPG)
+(15 April 2021) Enabled shipping of orders.
+
+## Step 5
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB4A_Details_GabrielHagerSD9.JPG)
+(15 April 2021) Product details.
+
+## Step 6
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB4A_Create_GabrielHagerSD9.JPG)
+(15 April 2021) Create a new product.
+
+## Step 7
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB4A_Edit_GabrielHagerSD9.JPG)
+(15 April 2021) Edit a product.
+
+## Step 8
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB4A_Delete_GabrielHageSD9.JPG)
+(15 April 2021) Enabled button to delete products from the list.
