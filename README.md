@@ -7,6 +7,7 @@ This is a build of the demo MVC App from Adam Freeman's ASP.NET Core 3 textbook.
 3) [Chapter 8](#Ch8)
 4) [Chapter 9](#Ch9)
 5) [Chapter 10](#Ch10)
+6) [Chapter 11] (#Ch11)
 
 # <a name="Build-Script"></a>
 #### <div alignt="Left"> Build Script</div> [Return to Table of Contents](#table-of-contents)
@@ -118,3 +119,14 @@ This is a build of the demo MVC App from Adam Freeman's ASP.NET Core 3 textbook.
 ## Step 8
 ![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB4A_Delete_GabrielHageSD9.JPG)
 (15 April 2021) Enabled button to delete products from the list.
+
+# <a name="Ch11"></a>
+#### <div alignt="Left"> Chapter 11 Screenshots</div> [Return to Table of Contents](#table-of-contents)
+
+## Step 1
+![](https://github.com/gabrielhager/GabesGadgetsSln/blob/master/images/LAB7A_GabrielHagerSD9.JPG)
+(7 May 2021) Integrated Microsoft Identity to Admin Page
+
+## Step 2
+(7 May 2021) SD9 Class was unable to deploy to Docker due to updates to Azure since writting of the instruction book.
+
