@@ -7,7 +7,7 @@ This is a build of the demo MVC App from Adam Freeman's ASP.NET Core 3 textbook.
 3) [Chapter 8](#Ch8)
 4) [Chapter 9](#Ch9)
 5) [Chapter 10](#Ch10)
-6) [Chapter 11] (#Ch11)
+6) [Chapter 11](#Ch11)
 
 # <a name="Build-Script"></a>
 #### <div alignt="Left"> Build Script</div> [Return to Table of Contents](#table-of-contents)
